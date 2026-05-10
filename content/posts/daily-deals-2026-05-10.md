@@ -2,7 +2,7 @@
 title: "🔥 今日京东好物推荐"
 date: 2026-05-10
 draft: false
-tags: ["daily-deals", "digital"]
+tags: ["daily-deals", "digital", "office"]
 categories: ["好物推荐"]
 author: "曹江涛"
 description: "每日精选京东好物，数码、办公、家电一网打尽。"
@@ -12,16 +12,16 @@ description: "每日精选京东好物，数码、办公、家电一网打尽。
 
 | 商品 | 价格 | 推荐理由 |
 |------|------|----------|
-| [机械革命 无界14X 笔记本电脑](https://union-click.jd.com/jdc?e=&p=JF8BAPcJK1olXDYCVV9cCUoVBWkJKx9tOHQnRzBxSgwVFA9FCUQeDg9LQ0hXSF9GADsCTUhEUAocSxRRXAQBXVteCUsUC2cBHl4SWgYKXFhaAEsUMxJXE1oSWQ4FXVdaOHsnA2gBGlodXAEGV25fCUoVC2cBGmsVWg8BUVpYCUoWAWcNGVwSWg4y) | 轻薄本性价比之王 |
-| [华为 FreeBuds Pro 4 耳机](https://union-click.jd.com/jdc?e=&p=JF8BAPcJK1olXDYCVV9cCUoVBWkJKx9tOHQnRzBxSgwVFA9FCUQeDg9LQ0hXSF9GADsCTUhEUAocSxRRXAQFXVteCUsUC2cBHl4TWwEHVFlcD0gQMxJXE1oSWQ4FXVdaOHsnA2gBGlodXAEGV25fCUoVC2cBGmsVWg8BUVpYCUoWAWcNGVwSWg4y) | 降噪旗舰，办公必备 |
+| [机械革命 无界14X 斗战版2026](https://item.jd.com/100282626606.html?utm_campaign=t_2038111078_) | ¥3,599（国补后≈¥3,043） | R7 H255 + 16G + 512G，14寸2.8K 120Hz高刷屏，轻薄全能本标杆 |
+| [罗技 MX Master 3S 无线鼠标](https://item.jd.com/100023663151.html?utm_campaign=t_2038111078_) | ¥599 | 人体工学旗舰，MagSpeed电磁滚轮，静音按键，办公效率神器 |
 
 ## 🖥️ 办公好物
 
 | 商品 | 价格 | 推荐理由 |
 |------|------|----------|
-| [罗技 MX Master 3S 鼠标](https://union-click.jd.com/jdc?e=&p=JF8BAPcJK1olXDYCVV9cCUoVBWkJKx9tOHQnRzBxSgwVFA9FCUQeDg9LQ0hXSF9GADsCTUhEUAocSxRRXAQFXVteCUsUC2cBHl4SWgEBXV1UDkgQMxJXE1oSWQ4FXVdaOHsnA2gBGlodXAEGV25fCUoVC2cBGmsVWg8BUVpYCUoWAWcNGVwSWg4y) | 效率神器，一天不累 |
-| [明基 ScreenBar 屏幕挂灯](https://union-click.jd.com/jdc?e=&p=JF8BAPcJK1olXDYCVV9cCUoVBWkJKx9tOHQnRzBxSgwVFA9FCUQeDg9LQ0hXSF9GADsCTUhEUAocSxRRXAQFXVteCUsUC2cBHl4TWgYKUVhUD0MeMxJXE1oSWQ4FXVdaOHsnA2gBGlodXAEGV25fCUoVC2cBGmsVWg8BUVpYCUoWAWcNGVwSWg4y) | 护眼台灯，深夜办公必备 |
+| [明基 ScreenBar Halo 屏幕挂灯](https://item.jd.com/100031913354.html?utm_campaign=t_2038111078_) | ¥1,099 | 非对称光学设计，智能调光，不占桌面空间，深夜办公护眼首选 |
 
 ---
 
 > 💡 价格可能有变动，以京东实际价格为准。通过本页链接购买，我们会获得少量佣金，感谢支持！
+> 🏷️ 本文商品均为京东自营，品质售后有保障。
